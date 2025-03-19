@@ -20,7 +20,7 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
 - 🔭 I'm currently working as an DevOps Intern at Autowhat Chatbot Service
 - 🌱 I'm currently learning Kubernetes and ArgoCD.
 - 💬 Ask me about DevOps, Cloud Architecture, CI/CD, and Infrastructure Automation
-- ⚡ Fun fact: [DevOps is all about automation… until you have to manually fix what you automated yesterday." 😅🔧]```
+- ⚡ Fun fact: DevOps is all about automation… until you have to manually fix what you automated yesterday." 😅🔧```
 
 ---
 
@@ -58,7 +58,10 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="50" height="50"/>
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="50" height="50"/>
 </p>
+
+
 ---
+
 
 ### 🌟 Featured Projects
 
