@@ -1,4 +1,4 @@
-# 👋 Hello, DevOps World! I'm [Your Name]
+# 👋 Hello, DevOps World! I'm Kkrish Singh
 
 > *"Infrastructure as code isn't just a practice, it's a mindset."*
 
@@ -12,7 +12,6 @@
 
 ### 💼 Professional Summary
 
-# 👋 Hello, I'm Kkrish Singh
 
 ## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
 
