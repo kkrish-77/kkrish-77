@@ -4,36 +4,29 @@
 
 ## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome)](https://your-portfolio-url.com)
+![Profile Views](https://komarev.com/ghpvc/?username=kkrish-77&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kkrish-singh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome)](https://kkrish.netlify.app)
 
 ---
 
 ### 💼 Professional Summary
 
+# 👋 Hello, I'm Kkrish Singh
+
+## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
+
 Passionate DevOps Engineer with expertise in building resilient cloud infrastructure and implementing CI/CD pipelines. I specialize in transforming manual processes into automated workflows, reducing deployment times and improving system reliability.
 
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "[Your Name]"
-        self.role = "DevOps Engineer"
-        self.location = "[Your Country]"
-        self.languages = ["Python", "Go", "Bash", "Java"]
-        self.values = ["Automation", "Reliability", "Scalability", "Security"]
-    
-    def say_hello(self):
-        print(f"Thanks for stopping by! Let's build something amazing together.")
-
-me = DevOpsEngineer()
-me.say_hello()
-```
+- 🔭 I'm currently working as an DevOps Intern at Autowhat Chatbot Service
+- 🌱 I'm currently learning Kubernetes and ArgoCD.
+- 💬 Ask me about DevOps, Cloud Architecture, CI/CD, and Infrastructure Automation
+- ⚡ Fun fact: [Your fun fact]```
 
 ---
 
 ### 🔧 Tech Stack
-## Tech Stack
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
