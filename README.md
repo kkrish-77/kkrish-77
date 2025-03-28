@@ -58,6 +58,7 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="50" height="50"/>
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="50" height="50"/>
 </p>
+
 ---
 
 
@@ -66,14 +67,13 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Infrastructure as Code Repository</h3>
+      <h3 align="center">Spotify Playlist Automation Using Terraform </h3>
       <p align="center">
         <a href="https://github.com/your-username/iac-templates" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>
-        A comprehensive collection of IaC templates for AWS, GCP, and Azure. Includes modules for VPC setup, Kubernetes cluster deployment, and microservices architecture.
+      <p>Spotify playlist automation with Terraform simplifies playlist creation and management using infrastructure-as-code principles.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
@@ -82,14 +82,14 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">CI/CD Pipeline Automation</h3>
+      <h3 align="center">Deploying 2048 : The Docker Way</h3>
       <p align="center">
-        <a href="https://github.com/your-username/cicd-pipeline" target="_blank">
+        <a href="https://github.com/kkrish-77/Deploying-2048-The-Docker-Way.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
       <p>
-        Fully automated CI/CD pipeline templates for multiple environments. Includes testing, security scanning, and deployment with canary releases.
+        Deploying 2048 using Docker simplifies hosting the game by creating a portable, consistent environment.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
@@ -100,14 +100,14 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Kubernetes Operator</h3>
+      <h3 align="center">Dockerizing Nodejs App</h3>
       <p align="center">
         <a href="https://github.com/your-username/k8s-operator" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
       <p>
-        Custom Kubernetes operator for automating application deployment and lifecycle management.
+        Implemented Docker To improve porgram efficiency and increases compatibility of it by being portable.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
@@ -116,14 +116,13 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Cloud Monitoring Solution</h3>
+      <h3 align="center">Netflix Trends Visualize using AWS QuickSight</h3>
       <p align="center">
         <a href="https://github.com/your-username/cloud-monitoring" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>
-        Comprehensive monitoring and alerting solution with custom dashboards and auto-scaling triggers.
+      <p>Netflix trends visualization with AWS QuickSight utilizes Amazon's analytics tool to design insightful dashboards and analyze catalog data.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
@@ -184,15 +183,3 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
   <img src="https://github.com/your-username/your-username/blob/main/assets/devops-animation.gif" width="500" alt="DevOps Animation">
   <p><i>⚡ Fun fact: I'm known as "The Pipeline Whisperer" in my circles because I can make CI/CD pipelines sing! 🎵</i></p>
 </div>
-
-<!--
-Replace the following:
-- [Your Name] with your actual name
-- [Your Country] with your country
-- your-username with your GitHub username
-- your-profile with your LinkedIn profile ID
-- your-handle with your Twitter handle
-- your-email@example.com with your email address
-- Add real links to your projects
-- Create a devops-animation.gif and place it in assets folder (optional)
--->
