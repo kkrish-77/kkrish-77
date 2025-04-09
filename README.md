@@ -75,11 +75,6 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
       </p>
       <p>Spotify playlist automation with Terraform simplifies playlist creation and management using infrastructure-as-code principles.
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
-      </p>
     </td>
     <td width="50%">
       <h3 align="center">Deploying 2048 : The Docker Way</h3>
@@ -90,11 +85,6 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
       </p>
       <p>
         Deploying 2048 using Docker simplifies hosting the game by creating a portable, consistent environment.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
-        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
       </p>
     </td>
   </tr>
@@ -110,10 +100,6 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
         Implemented Docker To improve porgram efficiency and increases compatibility of it by being portable.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-        <img src="https://img.shields.io/badge/Operator_SDK-CB3837?style=flat-square&logo=kubernetes&logoColor=white">
-      </p>
     </td>
     <td width="50%">
       <h3 align="center">Netflix Trends Visualize using AWS QuickSight</h3>
@@ -123,11 +109,6 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
         </a>
       </p>
       <p>Netflix trends visualization with AWS QuickSight utilizes Amazon's analytics tool to design insightful dashboards and analyze catalog data.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       </p>
     </td>
   </tr>
