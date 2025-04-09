@@ -138,8 +138,7 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkrish-77&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
 </div>
 
 ---
