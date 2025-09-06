@@ -17,7 +17,7 @@
 
 Passionate DevOps Engineer with expertise in building resilient cloud infrastructure and implementing CI/CD pipelines. I specialize in transforming manual processes into automated workflows, reducing deployment times and improving system reliability.
 
-- 🔭 I'm currently working as an DevOps Intern at AutoWhat AI and Automation.
+- 🔭 I'm currently working as an DevOps Intern at Mactores.
 - 🌱 I'm currently learning Kubernetes and ArgoCD.
 - 💬 Ask me about DevOps, Cloud Architecture, CI/CD, and Infrastructure Automation
 - ⚡ Fun fact: DevOps is all about automation… until you have to manually fix what you automated yesterday." 😅🔧```
