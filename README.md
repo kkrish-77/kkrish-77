@@ -1,6 +1,6 @@
 # 👋 Hello, DevOps World! I'm Kkrish Singh
 
-> *"Infrastructure as code isn't just a practice, it's a mindset."*
+> *"Infrastructure as code isn't just a practice, it's a mindset"*
 
 ## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
 
