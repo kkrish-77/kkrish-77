@@ -83,8 +83,7 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>
-        Deploying 2048 using Docker simplifies hosting the game by creating a portable, consistent environment.
+      <p>Brewed my Coffee Shop with Kubernetes(K8s) - Now it's serving real time metrics
       </p>
     </td>
   </tr>
