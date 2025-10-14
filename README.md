@@ -77,9 +77,9 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Deploying 2048 : The Docker Way</h3>
+      <h3 align="center">Brewed Coffee Shop Monitoring</h3>
       <p align="center">
-        <a href="https://github.com/kkrish-77/Deploying-2048-The-Docker-Way.git" target="_blank">
+        <a href="https://github.com/kkrish-77/Simple-Monitoring-DevOps-Project.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
