@@ -1,7 +1,5 @@
 # 👋 Hello, DevOps World! I'm Kkrish Singh
 
-> *"Infrastructure as code isn't just a practice, it's a mindset"*
-
 ## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kkrish-77&color=blueviolet&style=flat-square)
