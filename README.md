@@ -99,7 +99,7 @@ Passionate DevOps Engineer with expertise in building resilient cloud infrastruc
       <p align="center">
     </td>
     <td width="50%">
-      <h3 align="center">Netflix Trends Visualize using AWS QuickSight</h3>
+      <h3 align="center"> Netflix Trends Visualize using AWS QuickSight</h3>
       <p align="center">
         <a href="https://github.com/your-username/cloud-monitoring" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
