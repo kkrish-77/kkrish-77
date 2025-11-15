@@ -18,7 +18,6 @@ Passionate Cloud & DevOps Engineer with expertise in building resilient cloud in
 - 🔭 I'm currently working as an Cloud Intern at Mactores.
 - 🌱 I'm currently learning Prometheus and Grafana.
 - 💬 Ask me about DevOps, Cloud Architecture, CI/CD, and Infrastructure Automation.
-- ⚡ Fun fact: DevOps is all about automation.. until you have to manually fix what you automated yesterday. 😅🔧
 
 ---
 
