@@ -57,6 +57,8 @@ I specialize in transforming manual processes into automated workflows, reducing
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="50" height="50"/>
 </p>
 
+
+
 ---
 
 
@@ -65,13 +67,13 @@ I specialize in transforming manual processes into automated workflows, reducing
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Spotify Playlist Automation Using Terraform </h3>
+      <h3 align="center">CloudSymphony: A Modern Music Store Powered by Kubernetes & DevOps </h3>
       <p align="center">
-        <a href="https://github.com/your-username/iac-templates" target="_blank">
+        <a href="https://github.com/kkrish-77/Music-Store-DevOps-Project" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>Spotify playlist automation with Terraform simplifies playlist creation and management using infrastructure-as-code principles.
+      <p> Scalable, secure, and automated music store app engineered with Kubernetes, AWS, and cutting-edge DevOps practices.
       </p>
     </td>
     <td width="50%">
