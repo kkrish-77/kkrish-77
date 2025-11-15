@@ -1,4 +1,4 @@
-# 👋 Hello, DevOps World! I'm Kkrish Singh
+# 👋 Hello, World! I'm Kkrish Singh
 
 ## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
 
