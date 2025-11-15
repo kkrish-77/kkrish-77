@@ -83,7 +83,7 @@ I specialize in transforming manual processes into automated workflows, reducing
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p>Brewed my Coffee Shop with Kubernetes(K8s) - Now it's serving real time metrics
+      <p>Brewed my Coffee Shop with Kubernetes(K8s) + Prometheus and Grafana - Now it's serving real time metrics
       </p>
     </td>
   </tr>
