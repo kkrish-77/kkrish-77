@@ -89,14 +89,14 @@ I specialize in transforming manual processes into automated workflows, reducing
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Dockerizing Nodejs App</h3>
+      <h3 align="center">Lambda Lift-Off: Serverless User Greeter API on AWSApp</h3>
       <p align="center">
-        <a href="https://github.com/your-username/k8s-operator" target="_blank">
+        <a href="https://github.com/kkrish-77/Lamda-Lift-Off" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
       <p>
-        Implemented Docker To improve porgram efficiency and increases compatibility of it by being portable.
+        Instantly greet users with a serverless API—powered by AWS Lambda, API Gateway, and DynamoDB for fast and scalable interactions.
       </p>
       <p align="center">
     </td>
