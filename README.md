@@ -13,7 +13,7 @@
 
 ## 🚀 Cloud & DevOps Engineer 
 
-Passionate DevOps Engineer with expertise in building resilient cloud infrastructure and implementing CI/CD pipelines. I specialize in transforming manual processes into automated workflows, reducing deployment times and improving system reliability.
+Passionate Cloud & DevOps Engineer with expertise in building resilient cloud infrastructure and implementing CI/CD pipelines. I specialize in transforming manual processes into automated workflows, reducing deployment times and improving system reliability.
 
 - 🔭 I'm currently working as an Cloud Intern at Mactores.
 - 🌱 I'm currently learning Prometheus and Grafana.
