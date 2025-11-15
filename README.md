@@ -113,14 +113,6 @@ I specialize in transforming manual processes into automated workflows, reducing
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkrish-77&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-</div>
-
----
-
 ### 🔥 Current Focus
 
 - 🚀 Exploring **GitOps** methodologies with ArgoCD and Flux
