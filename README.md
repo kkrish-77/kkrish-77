@@ -145,9 +145,3 @@ I specialize in transforming manual processes into automated workflows, reducing
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/devops-animation.gif" width="500" alt="DevOps Animation">
-  <p><i>⚡ Fun fact: I'm known as "The Pipeline Whisperer" in my circles because I can make CI/CD pipelines sing 🎵</i></p>
-</div>
