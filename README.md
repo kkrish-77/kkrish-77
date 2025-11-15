@@ -119,8 +119,7 @@ I specialize in transforming manual processes into automated workflows, reducing
 
 - 🚀 Exploring **GitOps** methodologies with ArgoCD and Flux
 - 🔍 Implementing **FinOps** practices for cloud cost optimization
-- 🛡️ Enhancing **Security as Code** with policy-as-code tools
-- 🧠 Learning **AI/ML Ops** for managing machine learning pipelines
+- 🧠 Future goal is to grasp knowledge on **AI/ML Ops** for managing machine learning pipelines
 
 ---
 
