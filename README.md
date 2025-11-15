@@ -11,7 +11,7 @@
 ### 💼 Professional Summary
 
 
-## 🚀 DevOps Engineer | Cloud Architect | Automation Enthusiast
+## 🚀 DevOps Engineer 
 
 Passionate DevOps Engineer with expertise in building resilient cloud infrastructure and implementing CI/CD pipelines. I specialize in transforming manual processes into automated workflows, reducing deployment times and improving system reliability.
 
