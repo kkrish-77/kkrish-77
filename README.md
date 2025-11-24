@@ -18,7 +18,7 @@ I specialize in transforming manual processes into automated workflows, reducing
 
 - 🔭 I'm currently working as an Cloud Intern at Mactores.
 - 🌱 I'm currently learning Observability and Monitoring + ArgoCD.
-- 💬 Ask me about DevOps, Cloud Architecture, CI/CD, and Infrastructure Automation.
+- 💬 Ask me about DevOps, Cloud Architecture, CI/CD, and Infrastructure Automation
 
 ---
 
